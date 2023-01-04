@@ -63,7 +63,7 @@ const candidates = [
       "id": 7,
       "name": "John Doe",
       "position": "Software Engineer",
-      "skills": ["Java", "Python", "Javascript", "React "],
+      "skills": ["Java", "Python", "Javascript", "React"],
       "experience": 1,
       "education": "Bachelor's degree in Computer Science",
       "email": "John.doe@example.com",
